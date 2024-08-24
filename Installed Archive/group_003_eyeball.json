@@ -1,0 +1,29 @@
+﻿{
+  "Version": 0,
+  "Name": "Eyeball",
+  "Description": "",
+  "Image": "",
+  "Priority": 2,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "White",
+      "Description": "",
+      "Files": {
+      "chara/common/texture/eye/eye02_base.tex": "items\\chara\\common\\texture\\eye\\eye02_base.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Black",
+      "Description": "",
+      "Files": {
+      "chara/common/texture/eye/eye02_base.tex": "items\\chara\\common\\texture\\eye\\eye02_base2.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+﻿{
+  "Version": 0,
+  "Name": "Symbol",
+  "Description": "",
+  "Image": "",
+  "Priority": 1,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "Penta",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Heart",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask2.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "False death cross",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask3.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Digital Iris",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask4.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Spiral",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask5.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Cross",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask6.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Asian",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask7.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Lightning",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask8.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Cat Eye",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask9.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

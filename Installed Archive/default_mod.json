@@ -1,0 +1,25 @@
+{
+  "Files": {
+    "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask.tex",
+    "chara/common/texture/eye/eye01_norm.tex": "items\\chara\\common\\texture\\eye\\eye01_norm.tex",
+    "chara/common/texture/eye/eyelids_shadow.tex": "items\\chara\\common\\texture\\eye\\eyelids_shadow.tex",
+    "chara/human/c0701/obj/face/f0001/material/mt_c0701f0001_iri_a.mtrl": "items\\chara\\human\\c0701\\obj\\face\\f0001\\material\\mt_c0701f0001_iri_a.mtrl"
+  },
+  "FileSwaps": {},
+  "Manipulations": [
+    {
+      "Type": "Est",
+      "Manipulation": {
+        "Entry": 2,
+        "Gender": "Male",
+        "Race": "Miqote",
+        "SetId": 1,
+        "Slot": "Face"
+      }
+    }
+  ],
+  "Priority": 0,
+  "Name": "Face 1",
+  "Description": null,
+  "Image": ""
+}
